@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-app/static/css/main.6a5983cd.css",
+    "main.js": "/Ecommerce-app/static/js/main.7f75ac85.js",
+    "static/media/blog-img-2.jpeg": "/Ecommerce-app/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
+    "static/media/blog-img-1.jpeg": "/Ecommerce-app/static/media/blog-img-1.3e2f37267e1d1d5c8c75.jpeg",
+    "static/media/fa-solid-900.ttf": "/Ecommerce-app/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/slider-image-1.jpeg": "/Ecommerce-app/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/fa-brands-400.ttf": "/Ecommerce-app/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/slider-image-3.jpeg": "/Ecommerce-app/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/Ecommerce-app/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/fa-solid-900.woff2": "/Ecommerce-app/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/Ecommerce-app/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/Ecommerce-app/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/error-404.jpg": "/Ecommerce-app/static/media/error-404.5084186fbda7b1ae8b5d.jpg",
+    "static/media/fa-regular-400.woff2": "/Ecommerce-app/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Ecommerce-app/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Ecommerce-app/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/Ecommerce-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Ecommerce-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Ecommerce-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Ecommerce-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Ecommerce-app/index.html",
+    "main.6a5983cd.css.map": "/Ecommerce-app/static/css/main.6a5983cd.css.map",
+    "main.7f75ac85.js.map": "/Ecommerce-app/static/js/main.7f75ac85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a5983cd.css",
+    "static/js/main.7f75ac85.js"
+  ]
+}
